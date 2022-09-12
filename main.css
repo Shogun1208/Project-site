@@ -1,0 +1,85 @@
+body{
+  text-align: center;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 100px;
+  color: #66BFBF;
+  line-height: 2;
+  margin: 0;
+  padding-top: 100px;
+}
+
+h2{
+  font-weight: normal;
+  margin: 20 0 0 0;
+  font-size: 50px;
+}
+
+hr{
+border-top: 0;
+border-bottom: 5px dotted grey;
+border-left: 0;
+border-right: 0;
+width: 10%;
+height: 15px;
+}
+
+.hr-1{
+  position: relative;
+  top: 20px;
+  left: 310px;
+  margin: 70px auto 70px auto;
+}
+
+.top-container {
+  background-color: #D3F6F3;
+}
+
+.top{
+  width: 150px;
+  position: absolute;
+  top: 2px;
+  left: 900px;
+}
+
+.bottom{
+  width: 150px;
+  position: absolute;
+}
+
+.pic{
+  width: 200px;
+  position: relative;
+  top: 10px;
+}
+
+.dance{
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+
+.code{
+  width: 200px;
+  float: right;
+  margin-left: 30px;
+}
+
+.middle-container{
+  background-color: #EFFFFD;
+}
+
+.call{
+  width: 200px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}

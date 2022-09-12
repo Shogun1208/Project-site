@@ -1,0 +1,24 @@
+.red-c{
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  position: relative;
+  
+}
+
+.yellow-c{
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  position: relative;
+}
+
+.blue-c{
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  position: relative;
+}
